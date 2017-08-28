@@ -1,0 +1,17 @@
+.top-section{
+  background: url("./run.png");
+  height: 800px;
+  background-size: cover;
+}
+section{
+  font-style: italic;
+  color: purple;
+  font-size: 50px;
+}
+h1 {
+    background: pink;
+    text-align: right;
+    font-style: oblique;
+    font-size: 30px;
+    color: purple;
+}
